@@ -10,7 +10,7 @@
     <div class="col-6">
       <img src="Lyn-le.png"class="img-thumbnail" style="width:400px;heigth:500px;"/><br>
       <button class="btn btn-primary" type="button"id="btnLike1">like</button>
-      <output id="countlike1"> </output>
+      <output id="countlike1">0</output>
 </div>
    <div class="col-6">
      <img src="Lyn-le.png" class="class="img-thumbnail" style="width:400px;heigth:500px;
